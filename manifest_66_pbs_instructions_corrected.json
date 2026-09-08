@@ -1,0 +1,688 @@
+{
+  "100": [
+    {
+      "series": "PBS INSTRUCTION 100-01",
+      "subject": "Engineering and Materials Administration",
+      "parts": [
+        {
+          "file": "100/100-1.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-03",
+      "subject": "Short Listing of Architectural & Engineering Consultants",
+      "parts": [
+        {
+          "file": "100/100-3.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-04",
+      "subject": "Prequalification of Electrical Construction Contractor",
+      "parts": [
+        {
+          "file": "100/100-4.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-05",
+      "subject": "Service, Repairing and Testing of Equipment/ Instrument of Electrical Network System",
+      "parts": [
+        {
+          "file": "100/100-5.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-06",
+      "subject": "Construction Methods for PBS Electrical Network System, Building  and Civil Works",
+      "parts": [
+        {
+          "file": "100/100-6.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-08",
+      "subject": "Preparation of Plans and Specifications for Electrical Network Facilities for PBS",
+      "parts": [
+        {
+          "file": "100/100-8.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-09",
+      "subject": "Appointment of Consultant for Local Electrical Consultancy Services",
+      "parts": [
+        {
+          "file": "100/100-9.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-10",
+      "subject": "Pre-Construction and Construction Progress Co-Ordination Meeting",
+      "parts": [
+        {
+          "file": "100/100-10.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-12",
+      "subject": "Function of BREB/PBS Engineers/Officers/Inspectors for Construction of Electric Network  System and Civil Works",
+      "parts": [
+        {
+          "file": "100/100-12.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-13",
+      "subject": "Close-Out Procedure for the Contract Construction of Electrical Network System/Facilities",
+      "parts": [
+        {
+          "file": "100/100-13.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-14",
+      "subject": "Procedure and Documents for Closing Out the Civil Works (New & Maintenance) Construction Contract",
+      "parts": [
+        {
+          "file": "100/100-14.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-15",
+      "subject": "Store Operation Manual",
+      "parts": [
+        {
+          "file": "100/100-15.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-16",
+      "subject": "Insurance Coverage and Bond Requirements for BREB/PBS’s Contractors",
+      "parts": [
+        {
+          "file": "100/100-16.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-17",
+      "subject": "PBS’s Sub-Station & Electric Line’s Materials and Transformer’s Repairing/ Servicing/ Testing",
+      "parts": [
+        {
+          "file": "100/100-17.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-18",
+      "subject": "Power Interruption Recording and Reporting Procedure",
+      "parts": [
+        {
+          "file": "100/100-18.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-19",
+      "subject": "Load Management",
+      "parts": [
+        {
+          "file": "100/100-19.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-20",
+      "subject": "Energization and Commissioning of Electric Network System (Electric Lines or Lines Section and Sub-Station)",
+      "parts": [
+        {
+          "file": "100/100-20.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-21",
+      "subject": "PBS INSTRUCTION 100-21",
+      "parts": [
+        {
+          "file": "100/100-21.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-22",
+      "subject": "Adequate Grounding on PBS Distribution System",
+      "parts": [
+        {
+          "file": "100/100-22.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-23",
+      "subject": "System Plans and Construction Works Plans for Electric Network Systems",
+      "parts": [
+        {
+          "file": "100/100-23.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-24",
+      "subject": "Voltage and Current Investigations",
+      "parts": [
+        {
+          "file": "100/100-24.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-25",
+      "subject": "Materials Coding Procedures",
+      "parts": [
+        {
+          "file": "100/100-25.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-26",
+      "subject": "Power Factor Measurements",
+      "parts": [
+        {
+          "file": "100/100-26.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-27",
+      "subject": "Stores Management Manual",
+      "parts": [
+        {
+          "file": "100/100-27.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-28",
+      "subject": "Standard Specifications and Drawing for 6.35/11 KV Line Constructions",
+      "parts": [
+        {
+          "file": "100/100-28-part-1.pdf",
+          "title": "PART 1"
+        },
+        {
+          "file": "100/100-28-part-2.pdf",
+          "title": "PART 2"
+        },
+        {
+          "file": "100/100-28-part-3.pdf",
+          "title": "PART 3"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-29",
+      "subject": "Substation Operation, Inspection and Maintenance",
+      "parts": [
+        {
+          "file": "100/100-29-part-1.pdf",
+          "title": "PART 1"
+        },
+        {
+          "file": "100/100-29-part-2.pdf",
+          "title": "PART 2"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-30",
+      "subject": "Distribution Operation, Inspection and Maintenance",
+      "parts": [
+        {
+          "file": "100/100-30.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-31",
+      "subject": "Responsibilities of BREB and PBS for Operation, Construction & Outage of Electric Network System",
+      "parts": [
+        {
+          "file": "100/100-31.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-32",
+      "subject": "Tool and Work Equipment Administration",
+      "parts": [
+        {
+          "file": "100/100-32.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-33",
+      "subject": "Material Administration Policies and Responsibilities",
+      "parts": [
+        {
+          "file": "100/100-33.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-35",
+      "subject": "বিতরণ ট্রান্সফরমার স্থাপন, প্রতি স্থাপন, আপগ্রেডিং ও ভাড়ায় ব্যবহার বিষয়ে নীতিমালা",
+      "parts": [
+        {
+          "file": "100/100-35.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-37",
+      "subject": "Electrical System Take Over Policy and Procedure",
+      "parts": [
+        {
+          "file": "100/100-37.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-38",
+      "subject": "Management of Consumer Complaints",
+      "parts": [
+        {
+          "file": "100/100-38.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-39",
+      "subject": "Standards for the Power Utilization of Three-Phase Meters",
+      "parts": [
+        {
+          "file": "100/100-39.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-40",
+      "subject": "Meter Installation, Test, Repair and Sealing Policy",
+      "parts": [
+        {
+          "file": "100/100-40.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-41",
+      "subject": "Construction/Rehabilitation of Electric Facilities by PBS",
+      "parts": [
+        {
+          "file": "100/100-41.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-42",
+      "subject": "Extension of Electrical Lines on Deposit Work Basis",
+      "parts": [
+        {
+          "file": "100/100-42.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-45",
+      "subject": "Standard Specifications and Drawing  for 33 KV Line Constructions",
+      "parts": [
+        {
+          "file": "100/100-45-part-1.pdf",
+          "title": "PART 1"
+        },
+        {
+          "file": "100/100-45-part-2.pdf",
+          "title": "PART 2"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-47",
+      "subject": "Inter Project Materials Transaction Policy",
+      "parts": [
+        {
+          "file": "100/100-47.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-49",
+      "subject": "PBS Hot Line Work Administration",
+      "parts": [
+        {
+          "file": "100/100-49.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-50",
+      "subject": "PBS Hot Line Work Operations",
+      "parts": [
+        {
+          "file": "100/100-50.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-51",
+      "subject": "First in First Out Material Issue",
+      "parts": [
+        {
+          "file": "100/100-51.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-53",
+      "subject": "Storage and Handing of Timer Products",
+      "parts": [
+        {
+          "file": "100/100-53.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-54",
+      "subject": "Standard for Inspection, Evaluation and Treatment of Standing Wood Poles",
+      "parts": [
+        {
+          "file": "100/100-54.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-57",
+      "subject": "পবিসসমূহের প্রকল্প বহির্ভূত এবং নিজস্ব অর্থায়নে পূর্ত নির্মান/ রক্ষাণাবেক্ষণ কাজ সম্পাদনের নীতিমালা ও পদ্ধতি",
+      "parts": [
+        {
+          "file": "100/100-57.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-58",
+      "subject": "পল্লী বিদ্যুৎ সমিতিসমূহ কর্তৃক পরিচালন, রক্ষাণাবেক্ষণ ও সিস্টেম উনয়ন কাজের মালামাল ক্রয় নীতিমালা",
+      "parts": [
+        {
+          "file": "100/100-58.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-59",
+      "subject": "Engineering & Operations Record Update Process",
+      "parts": [
+        {
+          "file": "100/100-59.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-60",
+      "subject": "Development and Management of GIS for PBS Service Area",
+      "parts": [
+        {
+          "file": "100/100-60.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-61",
+      "subject": "Guideline for Engineering Assessment of Taken-Over Facilities from other Utilities/ Companies/Organizations",
+      "parts": [
+        {
+          "file": "100/100-61.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-62",
+      "subject": "Procurement of GIS Developer Consultant",
+      "parts": [
+        {
+          "file": "100/100-62.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-63",
+      "subject": "Procurement of GIS Updating Consultant",
+      "parts": [
+        {
+          "file": "100/100-63.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-64",
+      "subject": "পল্লী বিদ্যুৎ সমিতিসমূহ কর্তৃক ডিপোজিট ওয়ার্কের মালামাল ক্রয় নীতিমালা",
+      "parts": [
+        {
+          "file": "100/100-64.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-65",
+      "subject": "বাপবিবো/পবিস এর উপদেষ্ঠা প্রতিষ্ঠানকে জিআইএস ইকুইপমেন্ট ও মালামাল ভাড়া ও সেবা প্রদান নীতিমালা",
+      "parts": [
+        {
+          "file": "100/100-65.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-66",
+      "subject": "বাপবিবো/পবিস কর্তৃক ক্রয়তব্য বৈদ্যুতিক লাইন/ উপকেন্দ্রের মালামাল পরীক্ষা/ পরিদর্শণ নীতিমালা।",
+      "parts": [
+        {
+          "file": "100/100-66.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-67",
+      "subject": "বাপবিবো/পবিস কর্তৃক সংগৃহীত বৈদ্যুতিক লাইন/ উপকেন্দ্র এবং অন্যান্য মালামাল ও যন্ত্রপাতির প্যাকিং বক্স/ রীল/ ক্যাবল ড্রাম/ গানি ব্যাগ ইত্যাদি পরিদর্শণ নীতিমালা।",
+      "parts": [
+        {
+          "file": "100/100-67.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-68",
+      "subject": "বাপবিবো কর্তৃক বিভিন্ন প্রকল্পের বিপরীতে এবং পবিস এর ডিপোজিট/ওএন্ডএম কাজের জন্য মালামাল সংগ্রহ প্রক্রিয়া",
+      "parts": [
+        {
+          "file": "100/100-68.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-69",
+      "subject": "Penalization Formula for Deviations Detected During Destination (Post-Landing) Inspection in Wood Poles, Anchor Logs and Cross arms of BREB/PBS",
+      "parts": [
+        {
+          "file": "100/100-69.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-70",
+      "subject": "Line Construction Design",
+      "parts": [
+        {
+          "file": "100/100-70-part-1.pdf",
+          "title": "PART 1"
+        },
+        {
+          "file": "100/100-70-part-2.pdf",
+          "title": "PART 2"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-71",
+      "subject": "কারিগরী স্টাডি সম্পাদন, সুপারিশ প্রণয়ন এবং অনুমোদনের জন্য দিকনির্দেশনা",
+      "parts": [
+        {
+          "file": "100/100-71.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-72",
+      "subject": "নতুন বিদ্যুৎ সংযোগ ও লোড বৃদ্ধির ক্ষেত্রে অনুমোদন প্রক্রিয়া",
+      "parts": [
+        {
+          "file": "100/100-72.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-73",
+      "subject": "Procurement of Consultant for Software based Engineering Study of PBS Electric System",
+      "parts": [
+        {
+          "file": "100/100-73.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-74",
+      "subject": "পল্লী বিদ্যুৎ সমিতিসমূহের মধ্যে আদান-প্রদানকৃত মালামালের হিসাব সমন্বয় নীতিমালা",
+      "parts": [
+        {
+          "file": "100/100-74.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-75",
+      "subject": "Emergency Procedure and Disaster Management",
+      "parts": [
+        {
+          "file": "100/100-75.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-76",
+      "subject": "PalliBidyud Online Connection System",
+      "parts": [
+        {
+          "file": "100/100-76.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-77",
+      "subject": "Standard Specification and Drawings for Spacer Cable Line Construction",
+      "parts": [
+        {
+          "file": "100/100-77.pdf",
+          "title": "PART 1"
+        }
+      ]
+    },
+    {
+      "series": "PBS INSTRUCTION 100-78",
+      "subject": "Energy Auditing Policy",
+      "parts": [
+        {
+          "file": "100/100-78.pdf",
+          "title": "PART 1"
+        }
+      ]
+    }
+  ],
+  "200": [],
+  "300": [],
+  "circular": [],
+  "reb_forms": []
+}
