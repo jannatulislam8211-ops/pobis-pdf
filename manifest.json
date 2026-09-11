@@ -8,7 +8,8 @@
           "file": "100/100-1.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-03",
@@ -18,7 +19,8 @@
           "file": "100/100-3.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-04",
@@ -28,7 +30,8 @@
           "file": "100/100-4.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-05",
@@ -38,7 +41,8 @@
           "file": "100/100-5.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-06",
@@ -48,7 +52,8 @@
           "file": "100/100-6.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-08",
@@ -58,7 +63,8 @@
           "file": "100/100-8.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-09",
@@ -68,7 +74,8 @@
           "file": "100/100-9.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-10",
@@ -78,7 +85,8 @@
           "file": "100/100-10.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-12",
@@ -88,7 +96,8 @@
           "file": "100/100-12.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-13",
@@ -98,7 +107,8 @@
           "file": "100/100-13.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-14",
@@ -108,7 +118,8 @@
           "file": "100/100-14.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-15",
@@ -118,7 +129,8 @@
           "file": "100/100-15.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-16",
@@ -128,7 +140,8 @@
           "file": "100/100-16.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-17",
@@ -138,7 +151,8 @@
           "file": "100/100-17.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-18",
@@ -148,7 +162,8 @@
           "file": "100/100-18.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-19",
@@ -158,7 +173,8 @@
           "file": "100/100-19.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-20",
@@ -168,17 +184,14 @@
           "file": "100/100-20.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-21",
       "subject": "PBS INSTRUCTION 100-21",
-      "parts": [
-        {
-          "file": "100/100-21.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 100-22",
@@ -188,7 +201,8 @@
           "file": "100/100-22.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-23",
@@ -198,7 +212,8 @@
           "file": "100/100-23.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-24",
@@ -208,7 +223,8 @@
           "file": "100/100-24.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-25",
@@ -218,7 +234,8 @@
           "file": "100/100-25.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-26",
@@ -228,7 +245,8 @@
           "file": "100/100-26.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-27",
@@ -238,7 +256,8 @@
           "file": "100/100-27.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-28",
@@ -256,7 +275,8 @@
           "file": "100/100-28-part-3.pdf",
           "title": "PART 3"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-29",
@@ -270,7 +290,8 @@
           "file": "100/100-29-part-2.pdf",
           "title": "PART 2"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-30",
@@ -280,7 +301,8 @@
           "file": "100/100-30.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-31",
@@ -290,7 +312,8 @@
           "file": "100/100-31.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-32",
@@ -300,7 +323,8 @@
           "file": "100/100-32.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-33",
@@ -310,7 +334,8 @@
           "file": "100/100-33.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-35",
@@ -320,7 +345,8 @@
           "file": "100/100-35.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-37",
@@ -330,7 +356,8 @@
           "file": "100/100-37.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-38",
@@ -340,7 +367,8 @@
           "file": "100/100-38.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-39",
@@ -350,7 +378,8 @@
           "file": "100/100-39.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-40",
@@ -360,7 +389,8 @@
           "file": "100/100-40.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-41",
@@ -370,7 +400,8 @@
           "file": "100/100-41.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-42",
@@ -380,21 +411,23 @@
           "file": "100/100-42.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-45",
       "subject": "Standard Specifications and Drawing  for 33 KV Line Constructions",
       "parts": [
         {
-          "file": "100/100-45-part-1.pdf",
+          "file": "100/100-45 Part-1.pdf",
           "title": "PART 1"
         },
         {
           "file": "100/100-45-part-2.pdf",
           "title": "PART 2"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-47",
@@ -404,7 +437,8 @@
           "file": "100/100-47.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-49",
@@ -414,7 +448,8 @@
           "file": "100/100-49.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-50",
@@ -424,7 +459,8 @@
           "file": "100/100-50.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-51",
@@ -434,7 +470,8 @@
           "file": "100/100-51.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-53",
@@ -444,7 +481,8 @@
           "file": "100/100-53.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-54",
@@ -454,7 +492,8 @@
           "file": "100/100-54.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-57",
@@ -464,7 +503,8 @@
           "file": "100/100-57.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-58",
@@ -474,7 +514,8 @@
           "file": "100/100-58.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-59",
@@ -484,7 +525,8 @@
           "file": "100/100-59.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-60",
@@ -494,7 +536,8 @@
           "file": "100/100-60.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-61",
@@ -504,7 +547,8 @@
           "file": "100/100-61.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-62",
@@ -514,7 +558,8 @@
           "file": "100/100-62.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-63",
@@ -524,7 +569,8 @@
           "file": "100/100-63.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-64",
@@ -534,7 +580,8 @@
           "file": "100/100-64.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-65",
@@ -544,7 +591,8 @@
           "file": "100/100-65.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-66",
@@ -554,7 +602,8 @@
           "file": "100/100-66.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-67",
@@ -564,7 +613,8 @@
           "file": "100/100-67.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-68",
@@ -574,7 +624,8 @@
           "file": "100/100-68.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-69",
@@ -584,7 +635,8 @@
           "file": "100/100-69.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-70",
@@ -598,7 +650,8 @@
           "file": "100/100-70-part-2.pdf",
           "title": "PART 2"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-71",
@@ -608,7 +661,8 @@
           "file": "100/100-71.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-72",
@@ -618,7 +672,8 @@
           "file": "100/100-72.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-73",
@@ -628,7 +683,8 @@
           "file": "100/100-73.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-74",
@@ -638,7 +694,8 @@
           "file": "100/100-74.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-75",
@@ -648,7 +705,8 @@
           "file": "100/100-75.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-76",
@@ -658,7 +716,8 @@
           "file": "100/100-76.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-77",
@@ -668,7 +727,8 @@
           "file": "100/100-77.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 100-78",
@@ -678,7 +738,8 @@
           "file": "100/100-78.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     }
   ],
   "200": [
@@ -690,7 +751,8 @@
           "file": "200/200-02.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 200-03",
@@ -700,7 +762,8 @@
           "file": "200/200-03.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 200-05",
@@ -710,7 +773,8 @@
           "file": "200/200-05.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 200-06",
@@ -748,7 +812,8 @@
           "file": "200/200-6-part-8.pdf",
           "title": "PART 8"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 200-07",
@@ -758,7 +823,8 @@
           "file": "200/200-07.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 200-08",
@@ -768,7 +834,8 @@
           "file": "200/200-08.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 200-10",
@@ -778,484 +845,472 @@
           "file": "200/200-10.pdf",
           "title": "PART 1"
         }
-      ]
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 200-11",
       "subject": "Use and Approval of General Funds for Additions to Plant",
-      "parts": [
-        {
-          "file": "200/200-11.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-13",
       "subject": "Imprest (Petty Cash) Fund for PBSs",
-      "parts": [
-        {
-          "file": "200/200-13.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-16",
       "subject": "Revolving Fund and Administration Policy",
-      "parts": [
-        {
-          "file": "200/200-16.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-17",
       "subject": "Long Term Loans from BREB to PBSs",
-      "parts": [
-        {
-          "file": "200/200-17.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-19",
       "subject": "Budgetary Control",
-      "parts": [
-        {
-          "file": "200/200-19.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-20",
       "subject": "PBSs’ Initial Banking and Accounting Requirements",
-      "parts": [
-        {
-          "file": "200/200-20.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-21",
       "subject": "Depreciation and Amortization Rates and Procedures",
-      "parts": [
-        {
-          "file": "200/200-21.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-22",
       "subject": "Equipment Rental to Contractors",
-      "parts": [
-        {
-          "file": "200/200-22.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-23",
       "subject": "PBS General Accounts Manual",
-      "parts": [
-        {
-          "file": "200/200-23.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-24",
       "subject": "Operation of PBS Bank Accounts",
-      "parts": [
-        {
-          "file": "200/200-24.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-25",
       "subject": "House Wiring Loan",
-      "parts": [
-        {
-          "file": "200/200-25.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-26",
       "subject": "Internal Audit of PBSs’ Accounts and Records",
-      "parts": [
-        {
-          "file": "200/200-26.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-27",
       "subject": "Monitoring Financials Activities of the PBSs",
-      "parts": [
-        {
-          "file": "200/200-27.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-29",
       "subject": "Management of PBS Funds",
-      "parts": [
-        {
-          "file": "200/200-29.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-30",
       "subject": "Write-off Procedure of BAD Debits/ Uncollectible Accounts",
-      "parts": [
-        {
-          "file": "200/200-30.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-31",
       "subject": "Determination of PBSs’ long term Loan-Moratorium Period",
-      "parts": [
-        {
-          "file": "200/200-31.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-32",
       "subject": "Determination of Annual Performance Targets",
-      "parts": [
-        {
-          "file": "200/200-32.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 200-33",
       "subject": "পবিসসমূহের বিভিন্ন তহবিল ব্যাংক বিনিয়োগ (এফডিআর) এর নীতিমালা",
-      "parts": [
-        {
-          "file": "200/200-33.pdf",
-          "title": "PART 1"
-        }
-      ]
+      "parts": [],
+      "pdf_status": "not_found"
     }
   ],
   "300": [
     {
       "series": "PBS INSTRUCTION 300-01",
       "subject": "পল্লী বিদ্যুৎ সমিতি সংশ্লিষ্ট বিষয়াদি বিধিবদ্ধ কাঠামোর মধ্যে নির্দেশিকায় উল্লেখ/ সুনির্দিষ্ট নেই এইরুপ বিষয়াদি/ কার্যাদি সম্পাদন অনুমোদনের লক্ষ্যে পবিবোর্ডের বিভিন্ন পর্যায়ে ক্ষমতার্পন",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-02",
       "subject": "Member Services/ Power User",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-03",
       "subject": "Receiving, Issuing and Use of Meters, Meter Seals and Sealing Tools",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-04",
       "subject": "New Electric Connection, Assurance of Electricity Availability Certificates, Shifting of Poles/Lines/Services",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-06",
       "subject": "System Losses",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-07",
       "subject": "Transport Loan for PBS Employees",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-08",
       "subject": "Procedure for Selection of Apprentice Lineman Trainee Candidates",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-09",
       "subject": "Sale of Martgaged Assets by PBS",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-10",
       "subject": "Outline of Activities Required and Steps to be taken following Nomination of PBS Board of Directors/ Lady Directors and Onward during System Energization of each Palli Bidyut Samity",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-11",
       "subject": "Job Specfication, Function, Duties & Responsibilities of the PBS Senior General Manager/ General Manager",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-12",
       "subject": "Palli Bidyut Samity Directors’",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-15",
       "subject": "Funtions and Responsibilities of the Board of Directors of a Palli Bidyut Samity",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-16",
       "subject": "A Guide for a Policy Manual for PBS",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-17",
       "subject": "Wage and Salary Plan for PBS Employees",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-18",
       "subject": "Salary Plan & Pay Administration of Assistant General Manager, Deputy General Manager, Additional General Manager, General Manager and Senior General Manager of the PBS",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-19",
       "subject": "Wiring Specification and Recommendations for PBS Cunsumers",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-20",
       "subject": "Performance Appraisal of PBS Officers",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-21",
       "subject": "Housewiring Program for PBS",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-22",
       "subject": "Guidelines for Repair and Maintenance of PBS Transports",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-23",
       "subject": "Assignments of PBS Motor Cycles",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-24",
       "subject": "Recruitments, Appointment and Promotion of PBS Personnel",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-26",
       "subject": "Standard Transport Requirments for PBSs",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-27",
       "subject": "Use of PBS Transports by PBS Employees",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-28",
       "subject": "Daily Allowance (D.A) and Travel Allowance (T.A)",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-29",
       "subject": "Medical Facilities for PBS Employees",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-30",
       "subject": "Terms and Conditions of Electric Service",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-31",
-      "subject": "Payment of Income Tax for the PBS Employees",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-32",
-      "subject": "Workmen,s Compensation Benefit Scheme for the PBS",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-33",
-      "subject": "Procedure for Billing of Irrigation Connection",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-34",
-      "subject": "Benevolent Fund and Group Insurance Scheme for PBS Regular Employees",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-35",
-      "subject": "PBS Living Quaters and Its Uses",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-36",
-      "subject": "Procurement Procedure for the PBS",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-37",
-      "subject": "Electrical Construction and Service Policy within the Complexes office",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-38",
-      "subject": "PBS Election Commission and Election Procedure",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-39",
-      "subject": "Deputation/ Lien of BREB Officers to PBS System",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-40",
-      "subject": "পল্লী বিদ্যুৎ সমিতি ব্যবস্থাপনা ও পরিচালন নিরীক্ষা এবং পল্লী বিদ্যুৎ সমিতি মনিটরিং সিস্টেম",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-41",
-      "subject": "Operation and Maintenance Guidelines",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-42",
-      "subject": "Establishment of Zonal office, PBS Sub-Zonal Office, PBS Area Office & PBS Complain Centre",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-43",
-      "subject": "Operation of PBS Accounts",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-44",
-      "subject": "Renovation of Service/Meters of BPDB/DESA and/or Other Operators taken-over and PBS Old Consumers",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-45",
-      "subject": "Electric Service Connection to the Premises of Household, Commercial, Industry, Bridge, Fly Over, Power Plant",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-46",
-      "subject": "Leave or Absences of PBS Senior General Manager/ General Manager",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-47",
-      "subject": "Classification, Service and maintenance of Street Lighting Installations",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-48",
-      "subject": "Sub-Station Power Transformer Insurance Programme for Palli Bidyut Samities (PBSs)",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-49",
-      "subject": "Load Management",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-50",
-      "subject": "Appointment of a Legal Adviser and a Panel of Lawyers in Palli Bidyut Samity",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-51",
-      "subject": "Establishing Training requiremnt of PBS Personnel for the purpose of Confirmation/Regularization, Promotion and Career Development",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-52",
-      "subject": "Policy for Removal/ Sale/ Destruction of Obsolete and Condemned materials of all BREB nad PBS Stores",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-53",
-      "subject": "Principle of Inventory in BREB Cantral Warehouse, BREB Project Stores & PBS Stores",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-54",
-      "subject": "Appointment of Local Consultant for BREB/PBSs",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-55",
-      "subject": "Training Honorarium for PBS Officers/Employees",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-56",
-      "subject": "Deputation of PBS Employees to Other PBSs/BREB",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-57",
-      "subject": "Allocation of Dress/Liveries for the Employees of the PBS",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-58",
-      "subject": "Policy Regarding Advance and Re-Payment for House-Building/Purchase of House or Purchase of Land for PBS Employees",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-59",
-      "subject": "Facilities for Appointed Ansars in Palli Bidyut Samity",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-60",
-      "subject": "পল্লী বিদ্যুৎ সমিতি সমূহের চুরি যাওয়া/ হারানো মালামালের মূল্য অবলোপন সম্পর্কিত নীতিমালা",
-      "parts": []
-    },
-    {
-      "series": "PBS INSTRUCTION 300-62",
-      "subject": "Discontinuance of Service for Non-payment of Bills",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-30(Correction)",
       "subject": "Terms and Conditions of Electric Service for Consumer Tampering.",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-31",
+      "subject": "Payment of Income Tax for the PBS Employees",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-32",
+      "subject": "Workmen,s Compensation Benefit Scheme for the PBS",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-33",
+      "subject": "Procedure for Billing of Irrigation Connection",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-34",
+      "subject": "Benevolent Fund and Group Insurance Scheme for PBS Regular Employees",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-35",
+      "subject": "PBS Living Quaters and Its Uses",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-36",
+      "subject": "Procurement Procedure for the PBS",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-37",
+      "subject": "Electrical Construction and Service Policy within the Complexes office",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-38",
+      "subject": "PBS Election Commission and Election Procedure",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-39",
+      "subject": "Deputation/ Lien of BREB Officers to PBS System",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-40",
+      "subject": "পল্লী বিদ্যুৎ সমিতি ব্যবস্থাপনা ও পরিচালন নিরীক্ষা এবং পল্লী বিদ্যুৎ সমিতি মনিটরিং সিস্টেম",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-41",
+      "subject": "Operation and Maintenance Guidelines",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-42",
+      "subject": "Establishment of Zonal office, PBS Sub-Zonal Office, PBS Area Office & PBS Complain Centre",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-43",
+      "subject": "Operation of PBS Accounts",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-44",
+      "subject": "Renovation of Service/Meters of BPDB/DESA and/or Other Operators taken-over and PBS Old Consumers",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-45",
+      "subject": "Electric Service Connection to the Premises of Household, Commercial, Industry, Bridge, Fly Over, Power Plant",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-46",
+      "subject": "Leave or Absences of PBS Senior General Manager/ General Manager",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-47",
+      "subject": "Classification, Service and maintenance of Street Lighting Installations",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-48",
+      "subject": "Sub-Station Power Transformer Insurance Programme for Palli Bidyut Samities (PBSs)",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-49",
+      "subject": "Load Management",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-50",
+      "subject": "Appointment of a Legal Adviser and a Panel of Lawyers in Palli Bidyut Samity",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-51",
+      "subject": "Establishing Training requiremnt of PBS Personnel for the purpose of Confirmation/Regularization, Promotion and Career Development",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-52",
+      "subject": "Policy for Removal/ Sale/ Destruction of Obsolete and Condemned materials of all BREB nad PBS Stores",
+      "parts": [],
+      "pdf_status": "not_found"
     },
     {
       "series": "PBS INSTRUCTION 300-52 & 300-53 (Correction)",
       "subject": "",
-      "parts": []
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-53",
+      "subject": "Principle of Inventory in BREB Cantral Warehouse, BREB Project Stores & PBS Stores",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-54",
+      "subject": "Appointment of Local Consultant for BREB/PBSs",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-55",
+      "subject": "Training Honorarium for PBS Officers/Employees",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-56",
+      "subject": "Deputation of PBS Employees to Other PBSs/BREB",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-57",
+      "subject": "Allocation of Dress/Liveries for the Employees of the PBS",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-58",
+      "subject": "Policy Regarding Advance and Re-Payment for House-Building/Purchase of House or Purchase of Land for PBS Employees",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-59",
+      "subject": "Facilities for Appointed Ansars in Palli Bidyut Samity",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-60",
+      "subject": "পল্লী বিদ্যুৎ সমিতি সমূহের চুরি যাওয়া/ হারানো মালামালের মূল্য অবলোপন সম্পর্কিত নীতিমালা",
+      "parts": [],
+      "pdf_status": "not_found"
+    },
+    {
+      "series": "PBS INSTRUCTION 300-62",
+      "subject": "Discontinuance of Service for Non-payment of Bills",
+      "parts": [],
+      "pdf_status": "not_found"
     }
   ],
   "circular": [],
