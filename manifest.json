@@ -1117,8 +1117,13 @@
     {
       "series": "PBS INSTRUCTION 300-30(Correction)",
       "subject": "Terms and Conditions of Electric Service for Consumer Tampering.",
-      "parts": [],
-      "pdf_status": "not_found"
+      "parts": [
+        {
+          "file": "300/300-30-Correction.pdf",
+          "title": "PART 1"
+        }
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 300-31",
@@ -1254,9 +1259,14 @@
     },
     {
       "series": "PBS INSTRUCTION 300-52 & 300-53 (Correction)",
-      "subject": "",
-      "parts": [],
-      "pdf_status": "not_found"
+      "subject": "Correction of PBS Instruction 300-52 & 300-53",
+      "parts": [
+        {
+          "file": "300/300-52-300-53-Correction.pdf",
+          "title": "PART 1"
+        }
+      ],
+      "pdf_status": "available"
     },
     {
       "series": "PBS INSTRUCTION 300-53",
